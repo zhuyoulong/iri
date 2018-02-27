@@ -48,13 +48,13 @@ Starting program
 
 IDEA编辑器中启动:
 
-[Edit Configurations...] -> [Add New Configuration] -> [Application]
+- [Edit Configurations...] -> [Add New Configuration] -> [Application]
 
-[Edit Configurations...] -> [Main Class]: com.iota.iri.IRI
+- [Edit Configurations...] -> [Main Class]: com.iota.iri.IRI
 
-[Edit Configurations...] -> [Use classpath of module]: iri
+- [Edit Configurations...] -> [Use classpath of module]: iri
 
-[Edit Configurations...] -> [Program arguments]: -p 14265
+- [Edit Configurations...] -> [Program arguments]: -p 14265
 
 Run
 
