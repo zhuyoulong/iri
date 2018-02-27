@@ -82,4 +82,6 @@ HEADLESS = true
 DEBUG = true
 DB_PATH = db
 ```
-
+### 程序依赖xnio
+    maven仓库中找不到
+   下载地址：http://xnio.jboss.org/downloads，下载后加到本地lib中
