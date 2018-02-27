@@ -44,6 +44,15 @@ Running IRI is pretty simple, and you don't even have to run it under admin righ
 ```
 java -jar iri.jar -p 14265
 ```
+Starting program
+
+IDEA编辑器中启动:
+
+[Edit Configurations...] -> [Add New Configuration] -> [Application]
+[Edit Configurations...] -> [Main Class]: com.iota.iri.IRI
+[Edit Configurations...] -> [Use classpath of module]: iri
+[Edit Configurations...] -> [Program arguments]: -p 14265
+Run
 
 ### Docker
 
